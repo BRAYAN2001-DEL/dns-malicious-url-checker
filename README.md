@@ -1,3 +1,9 @@
+
+![image](https://github.com/BRAYAN2001-DEL/dns-malicious-url-checker/assets/73766344/54b518e5-c7de-4432-88fd-0d60d52f13a1)
+
+![image](https://github.com/BRAYAN2001-DEL/dns-malicious-url-checker/assets/73766344/e78d931d-1698-4065-8cda-88b1758a8b9a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
